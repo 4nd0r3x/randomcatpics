@@ -1,7 +1,0 @@
-to see random kitties you just need
-
--curl
--feh
-
-thats all
-bye
